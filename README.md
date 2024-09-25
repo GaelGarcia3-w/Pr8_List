@@ -28,6 +28,7 @@ print(" ")
 print(list3)#Se usa para imprimir la la lista de las variables guardadas.
 
 print(" ")
+
 ![image](https://github.com/user-attachments/assets/033360b7-f0df-4ede-ae7e-e0dc7caffe47)
 
 ![image](https://github.com/user-attachments/assets/1e718e47-38fe-461a-a55b-dc2dfdf3f62d)
